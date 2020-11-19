@@ -1,2 +1,2 @@
-# BGtrece.github.io.
-first site
+# Hello github
+
